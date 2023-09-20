@@ -15,7 +15,7 @@ static void Main() {
 
 Console.Clear(); 
 
-int sizeArray = 4;
+int sizeArray = 7;
 int[] numbers = new int[sizeArray];
 ArrayRandomNumbers(numbers);
 System.Console.Write($"Массив вещественных чисел {sizeArray} : ");
